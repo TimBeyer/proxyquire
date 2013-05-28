@@ -24,6 +24,9 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
+  "dependencies": {
+    "requirejs": "2.1.5"
+  },
   "devDependencies": {
     "mocha": "1.3.x",
     "should": "0.6.x",
